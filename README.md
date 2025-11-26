@@ -20,7 +20,7 @@ All datasets were merged into a unified sheet using XLOOKUP + Data Model.
 
 <h2 style="color:#C71585;">📌 Dashboard Preview</h2>
 
-https://github.com/Indhiras6423/Excel-AI-Powered-Healthcare-Data-Insights-and-Dashboarding/blob/main/Screenshot%202025-11-24%20083504.png?raw=true
+![Healthcare Dashboard](https://github.com/Indhiras6423/Excel-AI-Powered-Healthcare-Data-Insights-and-Dashboarding/blob/main/Screenshot%202025-11-24%20083504.png?raw=true)
 
 <h2 style="color:#C71585;">🗃️ Dataset Fields</h2>
 Field	Description
@@ -41,6 +41,7 @@ Field	Description
 🌆 City Tier	Tier classification
 🆔 State ID	State-level identifier
 🎯 Age	Calculated age (as of 8 June 2023)
+
 <h2 style="color:#C71585;">🧹 Data Cleaning Steps</h2>
 
 ✔️ Replaced “?” missing values
